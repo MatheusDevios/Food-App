@@ -22,7 +22,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone [https://github.com/MatheusDevios/Food-Order-App.git]
+$ git clone [https://github.com/MatheusDevios/Food-App.git]
 $ cd Food-Order-App
 $ npm install
 $ npm start
