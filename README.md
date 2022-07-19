@@ -1,7 +1,6 @@
 # <div align="center"> MatMeals Order App</div>
 
-<p align="center">A Responsive Meals Order app made with React, Redux, Hooks, consuming and Sending data to Firebase.</p>
-<p>Note: Sooner will be added login and logout auth through Firebase</p>
+<p align="center">A Responsive Meals Order app made with React, Redux, Hooks, Authentication and consuming and Sending data to Firebase.</p>
 
 ## 🛠️ Technologies
 
@@ -22,7 +21,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone [https://github.com/MatheusDevios/Food-Order-App.git]
+$ git clone [https://github.com/MatheusDevios/Food-App.git]
 $ cd Food-Order-App
 $ npm install
 $ npm start
